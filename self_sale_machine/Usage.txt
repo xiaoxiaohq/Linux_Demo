@@ -1,0 +1,13 @@
+1、进入项目源码文件夹内
+
+2、编译Makefile文件
+
+3、传输main文件到开发板
+
+4、将pic文件夹放在开发板里并且和main在同一级文件夹
+
+5、将product.txt和font.txt文件放到main一块在开发板里
+
+5、修改main权限
+
+6、运行main

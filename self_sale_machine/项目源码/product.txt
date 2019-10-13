@@ -1,0 +1,19 @@
+可乐 3 100 ./pic/cola.bmp
+雪碧 3 100 ./pic/sprite.bmp
+芬达 2.5 50 ./pic/Fenda.bmp
+怡宝 2 90 ./pic/Cestbon.bmp
+润田 1 100 ./pic/Run.bmp
+美年达 3 80 ./pic/Mirinda.bmp
+王老吉 4 50 ./pic/Wang.bmp
+红茶 3 60 ./pic/Red.bmp
+绿茶 3 60 ./pic/Green.bmp
+尖叫 4 80 ./pic/jianjiao.bmp
+脉动 4 60 ./pic/Maidg.bmp
+果粒橙 3.5 80 ./pic/GLC.bmp
+和其正 6 40 ./pic/HQZ.bmp
+红牛 6 50 ./pic/RedBull.bmp
+其正 6 40 ./pic/HQZ.bmp
+
+
+
+		
