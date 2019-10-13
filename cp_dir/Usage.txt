@@ -1,0 +1,19 @@
+项目名称：
+	拷贝大型目录
+
+项目要求：
+	1、能实现多目录，多普通文件的拷贝；
+	2、能够显示拷贝进度条，及拷贝目录大小；
+	3、能够选定拷贝文件类型；
+	4、能实现树状显示目录。
+
+项目涉及：
+	1、线程池的使用；
+	2、目录操作函数的使用opendir, readdir, closedir，mkdir；
+	3、系统IO的使用，open, read, write, close；
+	4、字符串的处理函数,strcmp, strstr, sprintf;
+
+使用方法：
+	1、./main  <src>  <dst>        		//拷贝整个目录
+	2、./main  <src>  <dst>  -t  <type>  	//拷贝目录里面type型文件
+	3、./main  <dir>			//树状显示目录文件，及目录数量，文件数量
